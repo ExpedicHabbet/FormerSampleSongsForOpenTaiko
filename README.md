@@ -8,7 +8,7 @@ __English__ |
 
 Sample songs from other Taiko simulators for OpenTaiko Ver.0.6.
 
-All simulators and songs referenced are published and distributed under MIT License.
+All simulators and songs referenced are already published and distributed under MIT License.
 ## Songs
 | Title                              | BPM | Easy | Normal | Hard | Extreme | Extra | Comment          |
 | ---------------------------------- |:---:|:----:|:------:|:----:|:-------:|:-----:| ---------------- |

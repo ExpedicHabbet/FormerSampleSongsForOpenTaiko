@@ -8,7 +8,7 @@ __español__ |
 
 Canciones de muestra de otros simuladores de Taiko para una OpenTaiko Ver.0.6.
 
-Todos los simuladores y canciones a los que se hace referencia se publican y distribuyen bajo la licencia MIT.
+Todos los simuladores y canciones a los que se hace referencia ya están publicados y distribuidos bajo la licencia MIT.
 ## Canciones
 | Título                                           | BPM | Fácil | Normal | Difícil | Extremo | Extra | Comentario                 |
 | ------------------------------------------------ |:---:|:-----:|:------:|:-------:|:-------:|:-----:| -------------------------- |
