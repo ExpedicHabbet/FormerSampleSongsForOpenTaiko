@@ -6,7 +6,7 @@ __español__ |
 [русский](https://github.com/ExpedicHabbet/FormerSampleSongsForOpenTaiko/blob/main/README-RU.md) |
 [中文](https://github.com/ExpedicHabbet/FormerSampleSongsForOpenTaiko/blob/main/README-ZH.md) |
 
-Canciones de muestra de otros simuladores de Taiko para una OpenTaiko Ver.0.6.
+Canciones de muestra de otros simuladores de Taiko para OpenTaiko Ver.0.6.
 
 Todos los simuladores y canciones a los que se hace referencia ya están publicados y distribuidos bajo la licencia MIT.
 ## Canciones
