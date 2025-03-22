@@ -1,4 +1,4 @@
-# Anciens Exemples de chansons pour OpenTaiko
+# Anciens exemples de chansons pour OpenTaiko
 [English](https://github.com/ExpedicHabbet/FormerSampleSongsForOpenTaiko/blob/main/README.md) |
 [español](https://github.com/ExpedicHabbet/FormerSampleSongsForOpenTaiko/blob/main/LEEME.md) |
 __français__ |
@@ -17,11 +17,11 @@ Tous les simulateurs et chansons référencés sont déjà publiés et distribu�
 | Déformation                                     | 129,13 | 2 | 4 | 5 | 8 |  - | Exemples de chanson de _TJAPlayer3_          |
 | Remplissez-le un essai                          | 130    | 3 | 4 | 6 | 8 |  - | Exemples de chanson 2 de _Taiko-san Jiro_    |
 | GO ! GO ! Akarui Shakai                         | 118,5  | 3 | 5 | 6 | 8 |  9 | Exemples de chanson de _TJAPlayer3_          |
-| Haruiro Gemination                              | 186    | - | - | 5 | 9 | 10 | Titre principal de _Koioto_                  |
-| Psyched Fevereiro                               | 150    | - | - | - | 9 |  - | Exemples de chanson de _Koioto_              |
-| Charge Scolaire                                 | 174    | 4 | 6 | 7 | 8 |  - | Exemples de chanson de _Taiko-san Daijiro 2_ |
+| Haruiro Gemination                              | 186    | - | - | 5 | 9 | 10 | Titre principal de _Koïoto_                  |
+| Psyched Fevereiro                               | 150    | - | - | - | 9 |  - | Exemples de chanson de _Koïoto_              |
+| Charge scolaire                                 | 174    | 4 | 6 | 7 | 8 |  - | Exemples de chanson de _Taiko-san Daijiro 2_ |
 | ParcShakujii                                    | 140    | 3 | 6 | 7 | 9 |  - | Exemples de chanson de _TJAPlayer3_          |
-| Défilé des Typhons                              | 160    | 4 | 6 | 7 | 9 |  - | Exemples de chanson de _TJAPlayer3_          |
+| Défilé des typhons                              | 160    | 4 | 6 | 7 | 9 |  - | Exemples de chanson de _TJAPlayer3_          |
 ## Mélange et Dan
 * Koioto Sample Medley ( Mélange d’exemples de Koioto )
 * 挑戦!サンプル段位認定 ( Défi ! Exemple de Certification Dan )
